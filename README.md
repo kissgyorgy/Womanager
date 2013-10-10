@@ -1,6 +1,6 @@
 # Womanager
 
-This is probably the simplest **WO**rk Force **MANAGE**ment Softwa**R**e you can ever get. :)
+This is probably the simplest **WO**rk Force **MANAGE**ment SoftwaRe you can ever get. :)
 
 The program make work schedule from 08/01/2013 with these rules in mind:
 

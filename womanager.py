@@ -14,8 +14,8 @@ This program make work schedule from 08/01/2013 with these simple rules:
 
 import calendar
 import datetime
-from PyQt4.QtGui import QApplication, QMainWindow, QTableWidgetItem, QColor, QDialog, QFontDatabase, QMessageBox
-from PyQt4.QtCore import Qt
+from PySide.QtGui import QApplication, QMainWindow, QTableWidgetItem, QColor, QDialog, QFontDatabase, QMessageBox
+from PySide.QtCore import Qt
 import sys
 
 import mainwindow

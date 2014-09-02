@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>walkman.png</file>
+  </qresource>
+  <qresource prefix="font">
+    <file>general_foundicons.ttf</file>
+  </qresource>
+</RCC>

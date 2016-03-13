@@ -24,8 +24,8 @@ If you need funcionality or need runnable binaries for your operating system,
 you can _hire me_ to do that.
 
 * I'm a Python guy. (Not the snake.)
-* [@Walkman_](https://twitter.com/Walkman_) on twitter  
-* public [e-mail address](https://github.com/Walkman) on GitHub
+* [@kissgyorgy](https://twitter.com/kissgyorgy) on twitter  
+* public [e-mail address](https://github.com/kissgyorgy) on GitHub
 
 
 

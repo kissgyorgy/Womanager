@@ -17,7 +17,7 @@ You click the button and it makes the magic, as simple as that! :)
     
 ## Screenshot
 
-![screenshot](https://d1zjcuqflbd5k.cloudfront.net/previews/R1zc.preview_small.png?Expires=1457908383&Signature=UMA8yMm~gJV3vRoHLMFzVI2NHnT7i0qdGPcRV6tAy6rL324OU0Fv1tePZ2LT3uUS86RU3bY04MTBFM6pQNnXnew6lAtlDGJLCJUpqtQjSfmzCZd2xu5wXA42WjjCuNmYm~KHKqQGJ30WJWw8GPiEdH3H0Xx9Z0MwqVQrt8ZpTrw_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+![screenshot](screenshot.png)
 
 ## Me
 If you need funcionality or need runnable binaries for your operating system,  
